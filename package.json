@@ -1,9 +1,9 @@
 {
-  "name": "create-next-example-app",
+  "name": "next",
   "description": "A Next.js starter app.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeit/now-examples/tree/master/nextjs"
+    "url": "https://github.com/osde8info"
   },
   "license": "MIT",
   "scripts": {
